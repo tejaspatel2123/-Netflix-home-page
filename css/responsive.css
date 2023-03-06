@@ -1,0 +1,391 @@
+@media only screen and (min-width: 540px) {
+  .mobile-girl img {
+    top: 40%;
+    left: 30px;
+  }
+  .watch--video--img img {
+    width: 350px;
+  }
+  .watch--video--img video {
+    width: 230px;
+    top: 9%;
+    left: 24%;
+  }
+}
+
+@media only screen and (min-width: 600px) {
+  .Enjoy-tv {
+    width: 60%;
+  }
+  .mobile-girl img {
+    top: 40%;
+    left: 60px;
+  }
+  .watch--video--img video {
+    left: 26%;
+  }
+  .chld--img img {
+    width: 400px;
+  }
+}
+
+@media only screen and (min-width: 660px) {
+  .mobile-girl img {
+    top: 40%;
+    left: 80px;
+  }
+  .watch--video--img video {
+    left: 28%;
+  }
+}
+@media only screen and (min-width: 700px) {
+  .mobile-girl img {
+    top: 40%;
+    left: 100px;
+  }
+  .watch--video--img video {
+    left: 30%;
+  }
+}
+@media only screen and (min-width: 750px) {
+  .mobile-girl img {
+    top: 40%;
+    left: 120px;
+  }
+  .watch--video--img video {
+    left: 31%;
+  }
+}
+@media only screen and (min-width: 800px) {
+  .nav-intro-section .back-img {
+    width: 1400px;
+  }
+  .nav-img {
+    width: 170px;
+  }
+  .welcome p {
+    font-size: 25px;
+  }
+  .welcome h1 {
+    font-size: 50px;
+    font-weight: bold;
+    padding-top: 0px;
+  }
+  .welcome h3 {
+    font-size: 30px;
+    padding-top: 15px;
+    padding-bottom: 30px;
+  }
+
+  .welcome {
+    width: 60%;
+    padding-top: 150px;
+  }
+  .welcome a,
+  .faq--container a {
+    font-size: 20px;
+    padding: 20px 40px;
+    color: #fff;
+  }
+  .nav-intro-section {
+    height: 750px;
+  }
+  .Enjoy-tv {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    width: 90%;
+    text-align: start;
+    padding: 40px 25px;
+  }
+  .Enjoy-tv div {
+    width: 50%;
+  }
+  .tv img {
+    width: 100%;
+    position: relative;
+    z-index: 5;
+  }
+  .tv video {
+    width: 73%;
+    position: absolute;
+    top: 21%;
+    left: 13%;
+    z-index: 1;
+  }
+  .Enjoy-tv .tv {
+    width: 50%;
+  }
+  .Enjoy-tv h1,
+  .download-show--container h1,
+  .watch-show--container h1 {
+    font-size: 45px;
+  }
+
+  .Enjoy-tv p,
+  .download-show--container p,
+  .watch-show--container p {
+    font-size: 25px;
+    line-height: 30px;
+  }
+  .download-show--container {
+    display: flex;
+    justify-content: space-between;
+    align-items: flex-end;
+    text-align: start;
+    padding: 100px 0px;
+    gap: 30px;
+  }
+  .s-thing {
+    width: 250px;
+    margin: auto;
+  }
+  .mobile-girl img {
+    width: 50%;
+    top: 20%;
+    left: -5%;
+  }
+  .download-show--container--one {
+    width: 50%;
+    order: 2;
+  }
+  .download-show--container--two {
+    width: 40%;
+  }
+  .down {
+    padding: 0px;
+  }
+  .down p {
+    font-size: 13px;
+    margin: 0px;
+  }
+  .watch-show--container {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    text-align: start;
+    gap: 50px;
+  }
+  .watch--video--img {
+    text-align: center;
+  }
+  .watch--video--img video {
+    width: 220px;
+    top: 9%;
+    left: 18%;
+  }
+  .child-profiles--container {
+    display: flex;
+    flex-direction: row-reverse;
+    align-items: center;
+    justify-content: space-between;
+    text-align: start;
+    gap: 20px;
+  }
+  .chld--img img {
+    width: 300px;
+  }
+  .chld--img {
+    padding-top: 0px;
+    text-align: center;
+  }
+  .footer-links {
+    display: flex;
+    justify-content: space-between;
+    align-items: flex-start;
+    gap: 15px;
+    padding-top: 10px;
+    padding-bottom: 30px;
+  }
+  .footer--contaier {
+    width: 800px;
+  }
+}
+
+@media only screen and (min-width: 950px) {
+  .mobile-girl img {
+    width: 400px;
+    top: 10%;
+    left: -5%;
+  }
+  .watch--video--img video {
+    left: 19%;
+  }
+  .chld--img img {
+    width: 400px;
+  }
+}
+
+@media only screen and (min-width: 1000px) {
+  .mobile-girl img {
+    width: 400px;
+    top: 10%;
+    left: -3%;
+  }
+  .s-thing {
+    width: 300px;
+  }
+  .watch--video--img video {
+    left: 21%;
+  }
+  .faq--container {
+    width: 800px;
+  }
+}
+
+@media only screen and (min-width: 1150px) {
+  .mobile-girl img {
+    left: 0%;
+  }
+  .watch--video--img video {
+    left: 25%;
+  }
+}
+
+@media only screen and (min-width: 1250px) {
+  .mobile-girl img {
+    left: 3%;
+  }
+  .watch--video--img video {
+    left: 29%;
+  }
+}
+
+@media only screen and (min-width: 1350px) {
+  .netflix-container {
+    width: 1350px !important;
+    margin: auto;
+  }
+}
+
+@media only screen and (max-width: 460px) {
+  .nav-intro-section {
+    height: 500px;
+  }
+  .nav-intro-section nav {
+    padding: 15px;
+  }
+  .nav-btn {
+    gap: 10px;
+    padding-top: 4px;
+  }
+  .sign-out a {
+    padding: 5px 12px 5px 12px;
+    font-size: 14px;
+  }
+
+  .default a {
+    font-size: 14px;
+    padding: 5px 12px;
+  }
+  .welcome {
+    padding-top: 70px;
+  }
+  .welcome p {
+    font-size: 20px;
+  }
+  .welcome h1 {
+    font-size: 30px;
+    padding-top: 15px;
+  }
+  .welcome h3 {
+    font-size: 16px;
+    padding-top: 10px;
+    padding-bottom: 20px;
+  }
+  .download-show--container {
+    width: 90%;
+    margin: auto;
+    padding-top: 50px;
+    padding-bottom: 50px;
+  }
+  .Enjoy-tv {
+    width: 90%;
+    padding-top: 50px;
+  }
+  .Enjoy-tv h1 {
+    font-size: 30px;
+  }
+
+  .Enjoy-tv p {
+    font-size: 16px;
+    padding-top: 10px;
+  }
+  .mobile-girl {
+    width: 100%;
+  }
+  .mobile-girl img {
+    position: relative;
+    top: 0%;
+    left: 0%;
+    width: 100%;
+    z-index: 1;
+  }
+  .s-thing {
+    width: 90%;
+    gap: 5px;
+    padding: 8px;
+    margin: 0px auto 0px auto;
+  }
+  .down {
+    padding-right: 0px;
+  }
+  .down h3 {
+    font-size: 11px;
+    margin: 0px;
+  }
+
+  .down p {
+    font-size: 9px;
+    padding: 0px;
+    margin: 0px;
+  }
+  .watch-show--container,
+  .child-profiles--container,
+  .faq--container {
+    padding-top: 50px;
+    padding-bottom: 40px;
+  }
+  .watch-show--container h1,
+  .child-profiles--container h1,
+  .faq--container h1 {
+    font-size: 30px;
+  }
+
+  .watch-show--container p,
+  .child-profiles--container p {
+    font-size: 16px;
+    padding-top: 10px;
+  }
+  .accordion-item button {
+    font-size: 14px;
+  }
+}
+
+@media only screen and (max-width: 410px) {
+  .footer--contaier {
+    width: 95%;
+  }
+  .footer-links {
+    gap: 10px;
+  }
+
+  .footer-links ul li a {
+    font-size: 9px;
+  }
+}
+
+@media only screen and (max-width: 330px) {
+  .sign-out a {
+    padding: 5px 12px 5px 12px;
+    font-size: 12px;
+  }
+
+  .default a {
+    font-size: 12px;
+    padding: 5px 12px;
+  }
+  .nav-img {
+    width: 80px;
+  }
+}
